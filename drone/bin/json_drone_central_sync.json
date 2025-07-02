@@ -1,0 +1,1 @@
+{"tipo": "sync", "acao": "drone_pronto", "topicos_mqtt": {"topic_to_antenna": "drone/pid/to_antenna", "topic_to_drone": "drone/pid/to_drone" }}
